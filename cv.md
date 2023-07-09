@@ -55,7 +55,7 @@ document.getElementById("demo").innerHTML = greeting;
 
 ## Experience
 
-**I have no work experience in programming. But I have 5 years of experience with my bachelor's degree.**
+**I have no work experience with programming. But I have 5 years of experience with my bachelor's degree.**
 All my jobs are in the field of automation. My position is a specialist in the automation of technological processes:
 
 -   **Mubarek Gas Processing Plant belonging to [JSC "Uzbekneftegaz"](https://www.ung.uz/)** (_2013-2017_)
@@ -72,8 +72,7 @@ All my jobs are in the field of automation. My position is a specialist in the a
 
 ## Language
 
--   Human Languages:
-    -   Uzbek (native)
-    -   English (B1)
-    -   Russian (A2+)
-    -   Turkish (A2+)
+-   Uzbek (native)
+-   English (B1)
+-   Russian (A2+)
+-   Turkish (A2+)
