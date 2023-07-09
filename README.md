@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Dulin14.github.io/rsschool-cv/cv
+https://dulin14.github.io/rsschool-cv/
